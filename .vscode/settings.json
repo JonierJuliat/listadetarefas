@@ -1,0 +1,5 @@
+{
+    "window.autoDetectColorScheme": false,
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "git.ignoreLimitWarning": true
+}
